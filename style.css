@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+#featured-property {
+text-align: center;
+}
+figcaption {
+  font-size: 10px;
+}
+nav {
+  text-align: center;
+}
+nav > a {
+  margin-right: 10px;
+  text-align: center;
+  color: black;
+  background: purple;
+}
+#featured-property > p {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#details > div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: rebeccapurple;
+
+}
